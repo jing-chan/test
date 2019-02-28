@@ -29,3 +29,5 @@ keey straight.
 
 
 I know nothing.
+
+我添加了一些翻译，提起一个 pull request
