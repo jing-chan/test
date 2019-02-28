@@ -18,8 +18,14 @@ Already up to date.
 
 this is some text. You need to translate this.
 
+这是需要翻译的文档
+
 just focus, Ok?
 
+保持专注
+
 keey straight.
+
+
 
 I know nothing.
